@@ -3,3 +3,4 @@
 2020.09.10 12:47:22 WARN  no build tool detected in workspace 'C:\Users\user\Desktop\docker_react'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 Sep 10, 2020 1:29:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTraceNotification
+2020.09.10 13:38:10 INFO  shutting down Metals
